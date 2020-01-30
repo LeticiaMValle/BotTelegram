@@ -9,7 +9,7 @@ let result_dolar = 0
 let euro_base = 6.00
 let dolar_base = 6.00
 
-const token = '1079032143:AAFobvvLmDB8YO-UUm0KkZZqVmhuyiEX3GM';
+const token = 'YourTokenHere';
 const bot = new TelegramBot(token, {
     polling: true
 });
