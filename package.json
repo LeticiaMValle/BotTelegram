@@ -14,7 +14,7 @@
     "fs": "0.0.1-security",
     "html2json": "^1.0.2",
     "http": "0.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-telegram-bot-api": "^0.40.0",
     "request-json": "^0.6.4",
     "requestify": "^0.2.5",
